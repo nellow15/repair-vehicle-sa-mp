@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://discord.gg/ZKaERSqdW5" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/nellow15_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 # Vehicle Repair System (MoonLoader)
 
 Simple Vehicle Repair System untuk SA:MP menggunakan MoonLoader dengan
